@@ -39,6 +39,7 @@ Currently pursuing my CCNA and building toward roles in SOC analysis, systems ad
 **Tools & Productivity**
 
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-Admin-orange?style=flat-square&logo=microsoft&logoColor=white)
+![ManageEngine](https://img.shields.io/badge/ManageEngine-ServiceDesk%20Plus-success?style=flat-square)
 ![Bash](https://img.shields.io/badge/Bash-CLI-black?style=flat-square&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-orange?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-Remote--SSH-blue?style=flat-square&logo=visualstudiocode&logoColor=white)
